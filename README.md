@@ -10,7 +10,7 @@
   A portfolio created using React.js
   
   ## Usage
-  Simply visit the deployed link here: 
+  Simply visit the deployed link here: https://kyky19.github.io/reactportfolio/
   ## Install
   Changes can be made by cloning this repo!
 
